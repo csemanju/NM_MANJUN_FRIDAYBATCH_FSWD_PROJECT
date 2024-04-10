@@ -5,6 +5,6 @@ ID:au960221104071
 
 College name:Arunachala College Of Engineering For Women
 
-username: STUDENT
+username: student
 
 Password: 12345
